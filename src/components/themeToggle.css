@@ -1,0 +1,25 @@
+.light {
+    background-color: white;
+}
+
+.dark {
+    background-color: black;
+}
+
+.title-light {
+    color: black;
+}
+
+.title-dark {
+    color: white;
+}
+
+.button-light {
+    color: white;
+    background-color: black;
+}
+
+.button-dark {
+    color: black;
+    background-color: white;
+}

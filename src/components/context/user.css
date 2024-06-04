@@ -1,0 +1,46 @@
+.navbar-list>ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.navbar-list>ul>li {
+    margin: 5px;
+}
+
+.navbar-list>ul>li>a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-list>h3 {
+    margin-inline: 20px;
+}
+
+.navbar-list {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-part {
+    display: flex;
+    justify-content: space-between;
+    height: 93vh;
+}
+
+.user-show {
+    display: block;
+}
+
+.user-hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}

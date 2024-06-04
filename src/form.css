@@ -1,0 +1,4 @@
+.form>input, button {
+    display: block;
+    margin: 5px;
+}
